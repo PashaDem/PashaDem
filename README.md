@@ -16,8 +16,6 @@
 ![Algorithms and data structures](https://img.shields.io/badge/Algorithms_and_data_structures-black?style=for-the-badge&logo=algorithm&logoColor=red)
 ![OOP](https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=red)
 
-### Priorities
-
 
 ### About me
 I'm studing on the first course of BSUIR(specialty Informatics and programming technologies), interested in software development, development of web-applications.
