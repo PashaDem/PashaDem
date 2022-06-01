@@ -15,12 +15,14 @@
 ![PyQt](https://img.shields.io/badge/PyQt-black?style=for-the-badge&logo=Qt&logoColor=green)
 ![Algorithms and data structures](https://img.shields.io/badge/Algorithms_and_data_structures-black?style=for-the-badge&logo=algorithm&logoColor=red)
 ![OOP](https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=red)\
-![English](https://img.shields.io/badge/English-black?style=for-the-badge&logo=English&logoColor=red)
+[![English](https://img.shields.io/badge/English-black?style=for-the-badge&logo=English&logoColor=red)](https://www.efset.org/cert/M9der8)
 
 ### About me
 I'm studing on the first course of BSUIR(specialty Informatics and programming technologies), interested in software development, development of web-applications.
 
 ### Contact Information and Links
+
+[![English](https://img.shields.io/badge/English_level-black?style=for-the-badge&logo=English&logoColor=blue)](https://www.efset.org/cert/M9der8)
 
 [![Vk](https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/rekaispiva)
 
@@ -34,4 +36,4 @@ I'm studing on the first course of BSUIR(specialty Informatics and programming t
 
 [![Coursera](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://www.codewars.com/users/PashaDem)
 
-[![English](https://img.shields.io/badge/English_level-black?style=for-the-badge&logo=English&logoColor=blue)](https://www.efset.org/cert/M9der8)
+
