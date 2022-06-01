@@ -16,6 +16,20 @@
 ![Algorithms and data structures](https://img.shields.io/badge/Algorithms_and_data_structures-black?style=for-the-badge&logo=algorithm&logoColor=red)
 ![OOP](https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=OOP&logoColor=red)
 
-
 ### About me
 I'm studing on the first course of BSUIR(specialty Informatics and programming technologies), interested in software development, development of web-applications.
+
+### Contact Information and Links
+
+[![Vk](https://img.shields.io/badge/Vk-black?style=for-the-badge&logo=Vk&logoColor=blue)](https://vk.com/rekaispiva)
+
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/pasha_demeshkevich_2/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/pavel-demeshkevich-281095239/)
+
+[![Stepik](https://img.shields.io/badge/stepik-black?style=for-the-badge&logo=stepik)](https://stepik.org/users/401676727)
+
+[![CodeWars](https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=CodeWars&logoColor=red)](https://www.codewars.com/users/PashaDem)
+
+[![Coursera](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://www.codewars.com/users/PashaDem)
+
